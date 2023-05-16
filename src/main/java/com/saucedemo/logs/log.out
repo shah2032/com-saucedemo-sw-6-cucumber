@@ -1,0 +1,6 @@
+2023-05-16 16:05:284 INFO  LoginPage :31 - Enter email IDProxy element for: DefaultElementLocator 'By.id: user-name'
+2023-05-16 16:05:776 INFO  LoginPage :31 - Enter email IDProxy element for: DefaultElementLocator 'By.id: user-name'
+2023-05-16 16:05:39 INFO  LoginPage :31 - Enter email ID[[ChromeDriver: chrome on WINDOWS (832d03dae37e2848624d47e8cdec9653)] -> id: user-name]
+2023-05-16 16:05:234 INFO  LoginPage :36 - Enter Password[[ChromeDriver: chrome on WINDOWS (832d03dae37e2848624d47e8cdec9653)] -> name: password]
+2023-05-16 16:05:372 INFO  LoginPage :41 - Click on Login Button[[ChromeDriver: chrome on WINDOWS (832d03dae37e2848624d47e8cdec9653)] -> name: login-button]
+2023-05-16 16:05:586 INFO  ProductsPage :30 - Get Text Product[[ChromeDriver: chrome on WINDOWS (832d03dae37e2848624d47e8cdec9653)] -> xpath: //span[@class='title']]
